@@ -3,7 +3,7 @@ authors = []
 language = "en"
 multilingual = false
 src = "src"
-title = "Course Name"
+title = "Kibo Curriculum Table of Contents"
 
 [build]
 build-dir = "output"
